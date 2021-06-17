@@ -1,0 +1,21 @@
+{
+  "name": "node.js-expess-mongodb-crud-master",
+  "version": "1.0.0",
+  "description": "Content discussed :   - Form Design   - Post Form Data into Node.js  - Implemented Form Validation with mongoose model  - Insert, Update and Delete with Node and MongoDB",
+  "main": "server.js",
+  "dependencies": {
+    "@handlebars/allow-prototype-access": "^1.0.5",
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "express-handlebars": "^3.0.0",
+    "handlebars": "^4.7.7",
+    "mongoose": "^5.3.4",
+    "nodemon": "^2.0.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
